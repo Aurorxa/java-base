@@ -29,13 +29,12 @@ repositories {
 }
 
 dependencies {
+    compileOnly gradleApi()
     testImplementation platform('org.junit:junit-bom:5.11.3')
     testImplementation 'org.junit.jupiter:junit-jupiter:5.11.3'
     implementation "commons-io:commons-io:2.18.0"
     compileOnly 'org.projectlombok:lombok:1.18.36'
     annotationProcessor 'org.projectlombok:lombok:1.18.36'
-    implementation 'org.springframework.boot:spring-boot-starter-web:3.4.0'
-
     testCompileOnly 'org.projectlombok:lombok:1.18.36'
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.36'
 }
@@ -43,3 +42,4 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+

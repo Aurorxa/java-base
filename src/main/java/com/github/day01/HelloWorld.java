@@ -1,0 +1,7 @@
+package com.github.day01;
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("你好，世界！！！");
+    }
+}
