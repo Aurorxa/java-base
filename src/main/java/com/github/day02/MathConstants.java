@@ -5,7 +5,11 @@ package com.github.day02;
  */
 public class MathConstants {
 
-    // 圆周率
-    public static final double PI = 3.14159;
+    public static void main(String[] args) {
+
+        final int X = 5;
+
+        System.out.println("X: " + X);
+    }
 
 }
