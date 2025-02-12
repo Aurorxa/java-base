@@ -50,3 +50,5 @@ bin/
 /.idea/prettier.xml
 /.idea/vcs.xml
 /.xcodemap/config/xcodemap-class-filter.yaml
+/.idea/externalDependencies.xml
+/.idea/git_toolbox_prj.xml
