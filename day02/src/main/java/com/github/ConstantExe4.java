@@ -1,4 +1,4 @@
-package com.github.day02;
+package com.github;
 
 /**
  * 布尔常量的逻辑运算

@@ -1,4 +1,4 @@
-package com.github.day02;
+package com.github;
 
 /**
  * 自定义常量
@@ -11,5 +11,4 @@ public class MathConstants {
 
         System.out.println("X: " + X);
     }
-
 }

@@ -1,4 +1,4 @@
-package com.github.day02;
+package com.github;
 
 /**
  *

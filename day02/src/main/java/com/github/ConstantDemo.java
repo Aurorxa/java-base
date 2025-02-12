@@ -1,4 +1,4 @@
-package com.github.day02;
+package com.github;
 
 public class ConstantDemo {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class ConstantDemo {
         // ① 字符串常量
         System.out.println("HelloWorld"); // 普通字符串
         System.out.println("a"); // 只包含一个字符的字符串
-        System.out.println(""); // 空字符串
+        System.out.println(); // 空字符串
 
         // 字符常量
         System.out.println('a'); // 字符

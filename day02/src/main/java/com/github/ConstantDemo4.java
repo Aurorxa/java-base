@@ -1,4 +1,4 @@
-package com.github.day02;
+package com.github;
 
 /**
  * 字符常量
@@ -11,6 +11,5 @@ public class ConstantDemo4 {
         System.out.println('大');
         System.out.println('仙');
         System.out.println('\t');
-
     }
 }

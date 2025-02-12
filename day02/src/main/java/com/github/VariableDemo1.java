@@ -1,4 +1,4 @@
-package com.github.day02;
+package com.github;
 
 public class VariableDemo1 {
     public static void main(String[] args) {

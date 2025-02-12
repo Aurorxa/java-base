@@ -1,4 +1,4 @@
-package com.github.day02;
+package com.github;
 
 /**
  * 布尔类型常量
@@ -8,6 +8,5 @@ public class ConstantDemo5 {
 
         System.out.println(true);
         System.out.println(false);
-
     }
 }

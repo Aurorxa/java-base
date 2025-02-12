@@ -1,4 +1,4 @@
-package com.github.day01;
+package com.github;
 
 /**
  * 这是一个入门案例 -- HelloWorld
