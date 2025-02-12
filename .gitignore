@@ -40,15 +40,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store*
-/.idea/.gitignore
-/.idea/CopilotChatHistory.xml
-/.idea/encodings.xml
-/.idea/git_toolbox_blame.xml
-/.idea/gradle.xml
-/.idea/misc.xml
-/.idea/palantir-java-format.xml
-/.idea/prettier.xml
-/.idea/vcs.xml
-/.xcodemap/config/xcodemap-class-filter.yaml
-/.idea/externalDependencies.xml
-/.idea/git_toolbox_prj.xml
+/.idea
