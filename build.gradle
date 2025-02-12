@@ -48,6 +48,7 @@ allprojects {
         testAnnotationProcessor 'org.projectlombok:lombok:1.18.36'
         testImplementation 'org.mockito:mockito-inline:3.6.28'
         testImplementation 'org.mockito:mockito-junit-jupiter:5.12.0'
+        testImplementation 'org.springframework:spring-test:5.3.18'
     }
 
     test {
