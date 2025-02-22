@@ -26,6 +26,12 @@ public class VariableTest3 {
         // 输出反转结果
         System.out.println(original + " 的反转是 " + rev);
 
+        if (original == rev) {
+            System.out.println(original + " 是回文数");
+        } else {
+            System.out.println(original + " 不是回文数");
+        }
+
         scanner.close();
     }
 }
